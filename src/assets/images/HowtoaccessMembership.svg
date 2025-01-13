@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_446" data-name="Rectangle 446" width="18" height="18" fill="#ce8045"/>
+    </clipPath>
+  </defs>
+  <g id="How_to_access_Membership" data-name="How to access Membership" transform="translate(0 8572)">
+    <g id="Rectangle_316" data-name="Rectangle 316" transform="translate(0 -8572)" fill="rgba(206,128,69,0.2)" stroke="rgba(158,51,35,0.2)" stroke-width="1">
+      <rect width="40" height="40" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" rx="7.5" fill="none"/>
+    </g>
+    <g id="Group_864" data-name="Group 864" transform="translate(8.25 -8564)">
+      <rect id="Rectangle_331" data-name="Rectangle 331" width="24" height="24" fill="none"/>
+      <g id="fi-rr-document-signed" transform="translate(2.75 3)" clip-path="url(#clip-path)">
+        <path id="Path_367" data-name="Path 367" d="M15.4,2.342,14.159,1.1A3.726,3.726,0,0,0,11.507,0H6.75A3.754,3.754,0,0,0,3,3.75v10.5A3.754,3.754,0,0,0,6.75,18h6a3.754,3.754,0,0,0,3.75-3.75V4.993a3.726,3.726,0,0,0-1.1-2.651ZM14.341,3.4a2.2,2.2,0,0,1,.284.348H12.75V1.875a2.325,2.325,0,0,1,.349.285ZM15,14.25a2.25,2.25,0,0,1-2.25,2.25h-6A2.25,2.25,0,0,1,4.5,14.25V3.75A2.25,2.25,0,0,1,6.75,1.5h4.5V3.75a1.5,1.5,0,0,0,1.5,1.5H15Zm-2.25-7.5a.75.75,0,0,1,0,1.5h-6a.75.75,0,1,1,0-1.5Zm.75,3.75a.75.75,0,0,1-.75.75h-6a.75.75,0,0,1,0-1.5h6a.75.75,0,0,1,.75.75Zm-.144,2.56a.75.75,0,0,1-.163,1.045A4.848,4.848,0,0,1,10.6,15a2.439,2.439,0,0,1-1.5-.525c-.246-.169-.34-.225-.525-.225a2.964,2.964,0,0,0-1.374.6.75.75,0,0,1-.91-1.191,4.4,4.4,0,0,1,2.288-.9,2.269,2.269,0,0,1,1.374.491,1.01,1.01,0,0,0,.648.259,3.439,3.439,0,0,0,1.708-.607.75.75,0,0,1,1.047.167Z" transform="translate(-0.75 0)" fill="#ce8045"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_281" data-name="Group 281" transform="translate(-48 -201.76)">
+    <rect id="Rectangle_145" data-name="Rectangle 145" width="24" height="24" transform="translate(48 201.76)" fill="none"/>
+    <path id="export" d="M7.81,2C4.17,2,2,4.17,2,7.81v8.37C2,19.83,4.17,22,7.81,22h8.37c3.64,0,5.81-2.17,5.81-5.81V7.81C22,4.17,19.83,2,16.19,2ZM16.5,13.08a.755.755,0,0,1-.75-.75V9.31L8.03,17.03a.748.748,0,0,1-1.06,0,.754.754,0,0,1,0-1.06l7.72-7.72H11.67a.75.75,0,0,1,0-1.5H16.5a.755.755,0,0,1,.75.75v4.83A.755.755,0,0,1,16.5,13.08Z" transform="translate(48.005 201.76)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

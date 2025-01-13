@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_403" data-name="Rectangle 403" width="20" height="20" fill="#c2e5f3" stroke="#143359" stroke-width="0.5"/>
+    </clipPath>
+  </defs>
+  <g id="FAQ" transform="translate(19166 9796)">
+    <rect id="Rectangle_407" data-name="Rectangle 407" width="24" height="24" transform="translate(-19166 -9796)" fill="none"/>
+    <g id="fi-rr-shield-interrogation" transform="translate(-19164 -9794)" clip-path="url(#clip-path)">
+      <path id="Path_316" data-name="Path 316" d="M10.333,12.5a.833.833,0,0,1-.833-.833A3.294,3.294,0,0,1,11.136,9a1.662,1.662,0,0,0,.833-1.77A1.687,1.687,0,0,0,10.636,5.9,1.667,1.667,0,0,0,8.667,7.543.833.833,0,1,1,7,7.543a3.331,3.331,0,1,1,4.941,2.921,1.656,1.656,0,0,0-.774,1.2.833.833,0,0,1-.833.833Zm.661,7.3c1.8-.723,7.673-3.567,7.673-9.764V5.727a4.161,4.161,0,0,0-2.855-3.955L10.6.042a.821.821,0,0,0-.525,0L4.855,1.772A4.161,4.161,0,0,0,2,5.727v4.309c0,5.468,5.838,8.813,7.627,9.708a1.942,1.942,0,0,0,.706.256A1.867,1.867,0,0,0,10.994,19.8ZM15.287,3.353A2.5,2.5,0,0,1,17,5.727v4.309c0,5.153-5.072,7.593-6.627,8.218-1.573-.787-6.706-3.7-6.706-8.218V5.727A2.5,2.5,0,0,1,5.38,3.353l4.953-1.642ZM10.333,14.167a.833.833,0,1,0,.589.244A.834.834,0,0,0,10.333,14.167Z" transform="translate(-0.333 0)" fill="#c2e5f3" stroke="#143359" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
