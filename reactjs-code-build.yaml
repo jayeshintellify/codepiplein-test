@@ -1,0 +1,33 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 19
+    commands:
+      # Install dependencies using npm (or yarn if that's your preferred package manager)
+      - echo "Installing dependencies"
+      - npm install
+  pre_build:
+    commands:
+      - echo "Running pre-build phase"
+  build:
+    commands:
+      - echo "Building the ReactJS app"
+      # Build the ReactJS app for production (static files)
+      - npm run build
+  post_build:
+    commands:
+      - echo "Build completed"
+      # Optionally, package up build artifacts into a tar file for deployment
+      - echo "Creating deployment artifact"
+      - zip -r react-app-build.zip build/*
+
+artifacts:
+  files:
+    - react-app-build.zip  # Include the build artifact (ZIP file containing static files)
+  discard-paths: yes
+
+cache:
+  paths:
+    - 'node_modules/**/*'  # Cache node_modules to speed up future builds
