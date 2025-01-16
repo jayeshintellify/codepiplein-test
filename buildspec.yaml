@@ -7,7 +7,7 @@ phases:
     commands:
       # Install dependencies using npm (or yarn if that's your preferred package manager)
       - echo "Installing dependencies"
-      - npm install --force
+      - npm install
   pre_build:
     commands:
       - echo "Running pre-build phase"
