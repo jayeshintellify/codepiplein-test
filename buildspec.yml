@@ -27,7 +27,7 @@ artifacts:
   files:
     - react-app-build.zip  # Include the build artifact (ZIP file containing static files)
     - appspec.yml
-    - scripts/**/*
+    - scripts/
   discard-paths: yes
 
 cache:
