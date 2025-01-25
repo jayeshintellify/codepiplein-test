@@ -20,14 +20,12 @@ phases:
     commands:
       - echo "Build completed"
       # Optionally, package up build artifacts into a tar file for deployment
-      - echo "Creating deployment artifact"
-      - zip -r react-app-build.zip build/*
 
 artifacts:
   files:
-    - react-app-build.zip  # Include the build artifact (ZIP file containing static files)
+    - /tmp/build/**/*  # Include the build artifact (ZIP file containing static files)
     - appspec.yml
-    - scripts/
+    - scripts/**/*
   discard-paths: yes
 
 cache:
