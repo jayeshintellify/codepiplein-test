@@ -1,5 +1,11 @@
 version: 0.2
 
+env:
+  variables:
+    REACT_APP_API_URL_PRIMECARE_CLIENT_STAGE: "https://api-staging.healthc2u.com"
+    REACT_APP_ENCRYPTION_KEY: "HCTU.Application"
+    REACT_APP_LOCAL_STORAGE_ENCYPTION_KEY: "health_care_admin_panel"
+
 phases:
   install:
     runtime-versions:
