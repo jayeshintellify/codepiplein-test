@@ -20,10 +20,11 @@ phases:
     commands:
       - echo "Build completed"
       # Optionally, package up build artifacts into a tar file for deployment
+      - sudo zip -r build.zip ./build/
 
 artifacts:
   files:
-    - /tmp/build/**/*  # Include the build artifact (ZIP file containing static files)
+    - build.zip  # Include the build artifact (ZIP file containing static files)
     - appspec.yml
     - scripts/**/*
   discard-paths: yes
